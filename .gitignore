@@ -1,0 +1,7 @@
+/target
+pom.xml
+pom.xml.asc
+.DS_Store
+.idea/
+*.iml
+cloudfront_id.txt
