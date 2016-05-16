@@ -63,7 +63,7 @@
     "MinTTL": 0,
     "Compress": false
   },
-  "CallerReference": "awsloft-deployer",
+  "CallerReference": "awsloft-temp-site-deployer",
   "ViewerCertificate": {
     "CloudFrontDefaultCertificate": true,
     "MinimumProtocolVersion": "SSLv3",
